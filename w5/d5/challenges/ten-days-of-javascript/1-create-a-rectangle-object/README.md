@@ -1,0 +1,1 @@
+Deep Link: https://www.hackerrank.com/challenges/js10-objects/problem
